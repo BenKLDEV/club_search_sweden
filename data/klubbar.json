@@ -1,0 +1,66 @@
+[
+  {
+    "namn": "Boqueria",
+    "betyg": 1,
+    "stad": "Stockholm",
+    "adress": "Jakobsbergsgatan 17, 111 44 Stockholm"
+  },
+  
+  {
+    "namn": "Riche",
+    "betyg": 2,
+    "stad": "Stockholm",
+    "adress": "Birger Jarlsgatan 4, 114 34 Stockholm"
+  },
+  
+  {
+    "namn": "Häktet",
+    "betyg": 3,
+    "stad": "Stockholm",
+    "adress": "Hornsgatan 82, Södermalm, Stockholm"
+  },
+  
+    
+  {
+    "namn": "Moriska Paviljongen",
+    "betyg": 1,
+    "stad": "Malmö",
+    "adress": "Norra Parkgatan 2, 214 22 Malmö"
+  },
+  
+  {
+    "namn": "Hipp Restaurang & Bar",
+    "betyg": 2,
+    "stad": "Malmö",
+    "adress": "Blasieholmsgatan 4A, 111 48 Stockholm"
+  },
+  
+  {
+    "namn": "Club Privé",
+    "betyg": 3,
+    "stad": "Malmö",
+    "adress": "Rådmansgatan 46, 113 57 Stockholm"
+  },
+  
+  {
+    "namn": "Trädgår'n",
+    "betyg": 1,
+    "stad": "Göteborg",
+    "adress": "Nya Allén 11, 411 38, Göteborg"
+  },
+  
+  {
+    "namn": "Bon Bon Bar",
+    "betyg": 2,
+    "stad": "Göteborg",
+    "adress": "Stampgatan 2, 411 03 Göteborg"
+  },
+  
+  {
+    "namn": "Nefertiti",
+    "betyg": 3,
+    "stad": "Göteborg",
+    "adress": "Hvitfeldtsplatsen 6, 411 20 Göteborg"
+  }
+  
+  ]
